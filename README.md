@@ -25,9 +25,9 @@
   </a>
 </div>
 
-## 👋 Hi, I’m Fabien Perrichon aka @fatoon29 from Brest in France
+## 😀 I’m Fabien Perrichon aka @fatoon29 from Brest in France
 
-- Developer at Lumy Media
+- 🖥 Developer at Lumy Media
 - 👀 I’m interested in coding and baking
 - 🌱 I’m currently working on Nuxt, VueJs, Symfony and baking cookie
 - 📫 You can contact me : fab.perrichon@gmail.com
